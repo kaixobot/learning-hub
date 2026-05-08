@@ -1,0 +1,1 @@
+console.log("microsoft_employee_learning_hub_mockup");
